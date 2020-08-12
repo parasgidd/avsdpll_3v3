@@ -1,0 +1,4 @@
+.subckt inv101 in out VDD GND
+M1 out in GND GND nfet l=180n w=180n
+M2 VDD in out VDD pfet l=180n w=360n
+.ends inv101

@@ -1,0 +1,9 @@
+****************************
+*2 input nand
+***************************
+.subckt nand101 in1 in2 out VDD GND
+M1 out in1 N001 N001 nfet l=180n w=180n
+M2 VDD in2 out VDD pfet l=180n w=360n
+M3 VDD in1 out VDD pfet l=180n w=360n
+M4 N001 in2 GND GND nfet l=180n w=360n
+.ends nand101

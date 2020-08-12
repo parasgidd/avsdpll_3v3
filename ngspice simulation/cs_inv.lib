@@ -1,0 +1,8 @@
+.subckt cs_inv In Out Vp Vn
+M1 N003 Vn 0 0 nfet l=180n w=360n
+M4 N002 Vp N001 VDD pfet l=180n w=720n
+M3 Out In N002 VDD pfet l=180n w=720n
+M2 Out In N003 0 nfet l=180n w=360n
+C1 Out 0 1f
+V1 N001 0 1.8
+.ends cs_inv

@@ -1,0 +1,23 @@
+********************
+*****PFD************
+********************
+.subckt pfd_501 f_clk_in f_VCO up down
+XX1 N001 N005 N002 vddd 0 nand101
+XX2 N002 N008 N006 vddd 0 nand101
+XX3 N006 N007 N008 vddd 0 nand101
+XX4 N007 N010 N011 vddd 0 nand101
+XX5 N011 N009 N010 vddd 0 nand101
+XX6 N013 N012 N009 vddd 0 nand101
+XX7 f_clk_in N005 vddd 0 inv101
+XX8 f_VCO N013 vddd 0 inv101
+XX9 N002 N003 vddd 0 inv101
+XX10 N003 N004 vddd 0 inv101
+XX11 N009 N014 vddd 0 inv101
+XX12 N014 N015 vddd 0 inv101
+XX13 N004 N006 N007 N001 vddd 0 nand301
+XX14 N007 N010 N015 N012 vddd 0 nand301
+XX15 N012 down vddd 0 inv101
+XX16 N006 N002 N009 N010 vddd 0 N007 nand401
+XX17 N001 up vddd 0 inv101
+V3 vddd 0 1.8
+.ends pfd_501

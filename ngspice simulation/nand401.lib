@@ -1,0 +1,10 @@
+.subckt nand401 in1 in2 in3 in4 VDD GND out
+M1 out in1 N001 N001 nfet l=180n w=720n
+M2 VDD in2 out VDD pfet l=180n w=360n
+M3 VDD in1 out VDD pfet l=180n w=360n
+M4 N001 in2 N002 N002 nfet l=180n w=720n
+M5 N002 in3 N003 N003 nfet l=180n w=720n
+M6 VDD in3 out VDD pfet l=180n w=360n
+M7 N003 in4 GND GND nfet l=180n w=720n
+M8 VDD in4 out VDD pfet l=180n w=360n
+.ends nand401

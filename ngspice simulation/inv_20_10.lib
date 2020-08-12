@@ -1,0 +1,5 @@
+.subckt inv_20_10 In Out
+M1 Out In 0 0 nfet l=180n w=360n
+M2 Out In N001 N001 pfet l=180n w=720n
+V1 N001 0 1.8
+.ends inv_20_10
