@@ -49,7 +49,7 @@ This IP block can be used for clock distribution for processor chip.
 # Pre-layout Simulation
 
 <p align="center">
-<img width="1340" height="436" src="/images/N/block_diagram.png">
+<img width="1340" height="436" src="/images/block_diagram.png">
 </p>
 
 # Future work
