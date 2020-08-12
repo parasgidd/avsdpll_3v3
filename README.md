@@ -15,20 +15,47 @@ This repository contains simulation files and other relevant files on the On-chi
 - [Contact Information](#ContactInformation)
 
 # Theory
-fzdjzdm
+
 # Design Specifications
-sj
+
+- Input Frequency (f_in) = 5MHz to 12MHz
+- Outut Frequency (f_out) = 40MHz to 100MHz
+
 # Tools Required
-hzvjnjh
+
+1. Ltspice
+2. Ngspice
+3. Magic
+
 # Implementation
-hdvzzgb
+- steps of implementation
+  1. In LtSpice, I've created symbols of each sub-block shown in block diagram.
+  2. For larger sub-blocks (such as PFD & VCO), I've created symbols of basic gates as needed.
+  3. Connect all the blocks as per the block diagram of PLL.
+  4. Connect input voltage source with frequency 5MHz & check results.
+
 # Pre-layout Simulation
-jdgzhsi
+
 # Future work
-jbhszdgjtzd
+
+1. Area Efficient Design Improvements.
+2. Improvements for Power Reduction. 
+3. Improvements of accuracy, jitter & dead zone.
+
 # Contributors
-jzsdghrz
+
+- **Paras Gidd** 
+- **Kunal Ghosh** 
+- **Philipp Gühring** 
+
 # Acknowledgments
-zfbgkthj
+
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+- Philipp Gühring, Software Architect, LibreSilicon Assocation
+
+
 # Contact Information
-dzsgm
+
+- Paras Gidd, postgraduate Student, Manipal University, parasgidd@gmail.com
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
+- Philipp Gühring, Software Architect, LibreSilicon Assocation pg@futureware.at
