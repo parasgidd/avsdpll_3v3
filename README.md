@@ -17,6 +17,16 @@ This repository contains simulation files and other relevant files on the On-chi
 
 # Theory
 
+The clock generator is one of the most crucial part in synchronous processor & probably most susceptible after power lines which can cause failure of entire circuitry if not designed properly.
+
+The phase locked loop or PLL is a circuit block that is widely used in radio frequency or wireless applications.
+
+In view of its usefulness, the phase locked loop or PLL is found in many wireless, radio, and general electronic items from mobile phones to broadcast radios, televisions to Wi-Fi routers, walkie talkie radios to professional communications systems etc.
+
+the circuit simulated here uses PLL block to get desired frequency at it’s output (which is 8 times to that of input frequency provided).
+This IP block can be used for clock distribution for processor chip.  
+
+
 # Design Specifications
 
 - Input Frequency (f_in) = 5MHz to 12MHz
