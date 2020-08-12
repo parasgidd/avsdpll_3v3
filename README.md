@@ -75,7 +75,7 @@ Fig: waveform showing Input output comparison
 **Ngspice Simulation**
 
 <p align="center">
-<img width="1911" height="1039" src="/images/Ngspice_5M.png">
+<img width="1911" height="1039" src="/images/Ngspice_5M.jpg">
 </p>
 
 Fig: Simulation results using Ngspice
