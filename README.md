@@ -44,12 +44,18 @@ This IP block can be used for clock distribution for processor chip.
 <img width="1340" height="436" src="/images/block_diagram.png">
 </p>
 
-- steps of implementation
-  1. In LtSpice, I've created symbols of each sub-block shown in block diagram.
+Fig: Block Diagram of PLL 
+(self explanatory to interconnect the symbols/sub-blocks in LtSpice)
+
+**- Steps of Implementation (in Ltspice)**
+
+  1. In LtSpice, create symbols of each symbols/sub-blocks shown in block diagram above. 
+  (or) Download the LtSpice folder from above containing all the symbols/sub-blocks. 
   2. For larger sub-blocks (such as PFD & VCO), I've created symbols of basic gates as needed.
   3. Connect all the blocks as per the block diagram of PLL.
   4. Connect input voltage source with input frequency 5MHz & check results.
-  5. Repeat step 4 for 10MHz & 12MHz to verify the operation.
+  5. Repeat (step 4) for 10MHz & 12MHz to verify the operation.
+
 
 # Pre-layout Simulation
 
