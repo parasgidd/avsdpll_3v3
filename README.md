@@ -4,6 +4,8 @@ This repository contains simulation files and other relevant files on the On-chi
 
 ## Table of contents
 
+## Table of contents
+
 - [Theory](#Theory)
 - [Design Specifications](#Design Specifications)
 - [Tools Required](#Tools Required)
@@ -15,11 +17,20 @@ This repository contains simulation files and other relevant files on the On-chi
 - [Contact Information](#Contact Information)
 
 # Theory
+fzdjzdm
 # Design Specifications
+sj
 # Tools Required
+hzvjnjh
 # Implementation
+hdvzzgb
 # Pre-layout Simulation
+jdgzhsi
 # Future work
+jbhszdgjtzd
 # Contributors
+jzsdghrz
 # Acknowledgments
+zfbgkthj
 # Contact Information
+dzsgm
