@@ -39,6 +39,11 @@ This IP block can be used for clock distribution for processor chip.
 3. Magic
 
 # Implementation
+
+<p align="center">
+<img width="1340" height="436" src="/images/block_diagram.png">
+</p>
+
 - steps of implementation
   1. In LtSpice, I've created symbols of each sub-block shown in block diagram.
   2. For larger sub-blocks (such as PFD & VCO), I've created symbols of basic gates as needed.
@@ -49,8 +54,9 @@ This IP block can be used for clock distribution for processor chip.
 # Pre-layout Simulation
 
 <p align="center">
-<img width="1340" height="436" src="/images/block_diagram.png">
+<img width="566" height="562" src="/images/waveforms_all_5M.png">
 </p>
+
 
 # Future work
 
