@@ -56,6 +56,13 @@ This IP block can be used for clock distribution for processor chip.
 <p align="center">
 <img width="566" height="562" src="/images/waveforms_all_5M.png">
 </p>
+Fig: waveforms at each nodes of PLL
+
+<p align="center">
+<img width="567" height="564" src="/images/waveforms_all_5M_z.png">
+</p>
+Fig: waveforms at each nodes of PLL (magnified)
+
 
 
 # Future work
