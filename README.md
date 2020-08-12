@@ -66,7 +66,7 @@ Fig: waveforms at each nodes of PLL
 Fig: waveforms at each nodes of PLL (magnified)
 
 <p align="center">
-<img width="1152" height="172" src="/images/waveforms_io_5M.png.png">
+<img width="1152" height="172" src="/images/waveforms_io_5M.png">
 </p>
 
 Fig: waveform showing Input output comparison
