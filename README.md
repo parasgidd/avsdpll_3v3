@@ -58,24 +58,29 @@ Fig: Block Diagram of PLL
 
 
 # Pre-layout Simulation
-
+  1. Input Frequency (F_in) = 5MHz
+  
 <p align="center">
-<img width="566" height="562" src="/images/waveforms_all_5M.png">
+<img width="1528" height="1878" src="/images/LTS_op_wave_5Mh.jpg">
 </p>
+Fig: Simulation Results for input frequency of 5MHz
 
-Fig: waveforms at each nodes of PLL
 
+  2. Input Frequency (F_in) = 10MHz
+  
 <p align="center">
-<img width="567" height="564" src="/images/waveforms_all_5M_z.png">
+<img width="1528" height="1878" src="/images/LTS_op_wave_10Mh.jpg">
 </p>
+Fig: Simulation Results for input frequency of 10MHz
 
-Fig: waveforms at each nodes of PLL (magnified)
 
+  3. Input Frequency (F_in) = 12MHz
+  
 <p align="center">
-<img width="1152" height="172" src="/images/waveforms_io_5M.png">
+<img width="1528" height="1878" src="/images/LTS_op_wave_12Mh.jpg">
 </p>
+Fig: Simulation Results for input frequency of 12MHz
 
-Fig: waveform showing Input output comparison
 
 
 **Ngspice Simulation**
