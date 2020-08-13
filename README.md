@@ -68,9 +68,9 @@ Fig: Block Diagram of PLL
   4. Connect input voltage source with input frequency 5MHz & check results.
   5. Repeat (step 4) for 10MHz & 12MHz to verify the operation.
 </p>
-</p>
-**- Steps of Implementation (in Ngspice)** </p>
 
+**- Steps of Implementation (in Ngspice)**
+.
   1. Download "ngspice simulation" folder in your system. </p>
   2. Navigate/open the downloaded folder & open command prompt in that directory. </p>
   3. type command - "ngspice pll101.cir" & hit enter, you will get the output. </p>
