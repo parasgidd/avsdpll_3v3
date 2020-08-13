@@ -103,8 +103,13 @@ Fig: Simulation Results for input frequency of 12MHz
 <img width="1923" height="1080" src="/images/Ngspice_5M_new.jpg">
 </p>
 
-Fig: Simulation results using Ngspice
-
+Fig: Simulation results using Ngspice </p>
+      Waveforms- 1. Input clock wave (Red) </p>
+                 2. UP signal (Voilet) </p>
+                 3. Down signal (Yello) </p>
+                 4. Input voltage to VCO (Green) </p>
+                 5. Output clock wave (Pink) </p>
+</p>
 
 # Future work
 
