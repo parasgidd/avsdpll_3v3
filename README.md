@@ -57,7 +57,7 @@ Fig: Block Diagram of PLL
                                      d. Library file -------------------------(.lib) </p>
   2. open "Final_PLL_501.asc" in spice simulator (you can do it by using either 'file > open' in Ltspice & browse in local directory 
       or simply open file with Ltspice schematic editor)
-  3. click on "RUN" (as the plot file is provided in folder, it will generate all the necessory automatically)
+  3. click on "RUN" (as the plot file is provided in folder, it will generate all the necessory waveforms automatically)
   
   
   #Method - 2
