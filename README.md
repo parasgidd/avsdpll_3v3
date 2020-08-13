@@ -92,13 +92,15 @@ Fig: Simulation Results for input frequency of 10MHz
 <img width="1528" height="1878" src="/images/LTS_op_wave_12Mh.jpg">
 </p>
 Fig: Simulation Results for input frequency of 12MHz
-
+</p>
+</p>
+</p>
 
 
 **Ngspice Simulation**
 
 <p align="center">
-<img width="1911" height="1039" src="/images/Ngspice_5M.jpg">
+<img width="1923" height="1080" src="/images/Ngspice_5M_new.jpg">
 </p>
 
 Fig: Simulation results using Ngspice
