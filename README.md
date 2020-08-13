@@ -48,7 +48,19 @@ Fig: Block Diagram of PLL
 (self explanatory to interconnect the symbols/sub-blocks in LtSpice)
 
 **- Steps of Implementation (in Ltspice)**
-
+  
+  #Method - 1.
+  1. Download "LtSpice Simulations101" folder in your system. </p>
+      It contains 3 types of files -</p> a. Schematic Files ------------------(.asc) </p>
+                                     b. Symbol files of sub-circuits -----(.asy) </p>
+                                     c. Plot file ----------------------------(.plt) </p>
+                                     d. Library file -------------------------(.lib) </p>
+  2. open "Final_PLL_501.asc" in spice simulator (you can do it by using either 'file > open' in Ltspice & browse in local directory 
+      or simply open file with Ltspice schematic editor)
+  3. click on "RUN" (as the plot file is provided in folder, it will generate all the necessory automatically)
+  
+  
+  #Method - 2
   1. In LtSpice, create symbols of each symbols/sub-blocks shown in block diagram above. 
   (or) Download the LtSpice folder from above containing all the symbols/sub-blocks. 
   2. For larger sub-blocks (such as PFD & VCO), I've created symbols of basic gates as needed.
