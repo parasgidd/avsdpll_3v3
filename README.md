@@ -79,7 +79,7 @@ Fig: Block Diagram of PLL
   3. type command - "ngspice pll101.cir" & hit enter, you will get the output. </p>
   </p>
   </p>
-  #Method - 2.
+  #Method - 2.  </p>
   1. Download "ngspice simulation" folder in your system. </p>
   2. Navigate/open the downloaded folder & open command prompt in that directory. </p>
   3. type command - "ngspice pll101.cir" & hit enter, you will get the output. </p>
