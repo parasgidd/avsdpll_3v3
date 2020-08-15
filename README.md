@@ -69,8 +69,20 @@ Fig: Block Diagram of PLL
   5. Repeat (step 4) for 10MHz & 12MHz to verify the operation.
 </p>
 
-**- Steps of Implementation (in Ngspice)**
-.
+**- Steps of Implementation (in Ngspice)**</p>
+</p>
+
+  #Method - 1. </p>
+  all you need is 2 files:</p> 
+     1.circuit file </p> 
+     2.Library file.
+     (Both are provided in the folder)                        
+  1. Download "ngspice simulation 101" folder in your system. </p>
+  2. Navigate/open the downloaded folder & open command prompt in that directory. </p>
+  3. type command - "ngspice pll101.cir" & hit enter, you will get the output. </p>
+  </p>
+  </p>
+  #Method - 2.
   1. Download "ngspice simulation" folder in your system. </p>
   2. Navigate/open the downloaded folder & open command prompt in that directory. </p>
   3. type command - "ngspice pll101.cir" & hit enter, you will get the output. </p>
