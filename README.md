@@ -73,10 +73,7 @@ Fig: Block Diagram of PLL
 </p>
 
   #Method - 1. </p>
-  (all you need is 2 files:
-     1.circuit file  
-     2.Library file.
-     Both are provided in the folder)   </p>                     
+  (all you need is 2 files: circuit file & Library file. Both are provided in the folder)   </p>                     
   1. Download "ngspice simulation 101" folder in your system. </p>
   2. Navigate/open the downloaded folder & open command prompt in that directory. </p>
   3. type command - "ngspice pll101.cir" & hit enter, you will get the output. </p>
