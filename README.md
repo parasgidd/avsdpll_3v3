@@ -226,8 +226,17 @@ fout - Output Frequency (Bottom Red) </p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/5mv2/pll5mv2opw.png)
 
+</p>
+</p>
+Fig: Input-Output waveforms of PLL. </p> 
+Fin - Input Frequency. (Red) </p> 
+fout - Output Frequency (Blue) </p> 
+</p>
+
 #### b. Input frequency = 10MHz
+
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/10mv2/pll10mv2w.png)
+
 </p>
 </p>
 </p>
@@ -240,7 +249,16 @@ Vcp - Input Voltaage of VCO (Pink) </p>
 fout - Output Frequency (Bottom Red) </p> 
 </p>
 </p>
+
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/10mv2/pll10mv2opw.png)
+
+</p>
+</p>
+Fig: Input-Output waveforms of PLL. </p> 
+Fin - Input Frequency. (Red) </p> 
+fout - Output Frequency (Blue) </p> 
+</p>
+
 
 #### c. Input frequency = 12.5MHz
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/12_5mv2/pll12_5mv2w.png)
@@ -262,6 +280,12 @@ fout - Output Frequency (Bottom Red) </p>
 
 </p>
 </p>
+Fig: Input-Output waveforms of PLL. </p> 
+Fin - Input Frequency. (Red) </p> 
+fout - Output Frequency (Blue) </p> 
+</p>
+</p>
+
 
 Note: As there were limitaions for for layout of capacitor in OSU180 tech file, I'm unable to make layout of Low Pass Filter.
 However, using more mature & advanced nodes & PDK tech file, it can be made on silicon. 
