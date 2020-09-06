@@ -77,7 +77,7 @@ Fig: Block Diagrm of PLL Design.
 </p>
 
 Fig: Input-Output waveforms from Pre-layout Simulation. </p> 
-Fin - Input Frequency. (Top Red) </p> 
+Fin - Input Frequency. (Red) </p> 
 up - Up signal (Blue) </p> 
 down - Down signal (Yellow) </p> 
 Vcp - Input Voltaage of VCO (Green) </p> 
