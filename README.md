@@ -313,6 +313,15 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 - FOSSEE Team, IIT Bombay
 - R. Timothy Edwards, Open Circuit Design
 
+I would also like to thank research fellows for extending their help and guidance during the research internship program. Many Thanks to 
+
+- Sheryl Serrao, Undergraduate Student, Mumbai University, sherylcorina@gmail.com
+- Reuel Reuben, Undergraduate Student, BVPCOE reuel992000@gmail.com
+- Ananya Ghorai, Pursuing M.Tech in VLSI Design, IIT(ISM) Dhanbad, ananyaghorai.2012@gmail.com
+- Yash Kumar, B.E. Electronics, Fr. Conceicao Rodrigues College of Engineering, Mumbai - laryash99@gmail.com
+- Neethu Johny, B.M.S College of Engineering, Bangalore - neethujohny123@gmail.com
+- Ashutosh Sharma, B.Tech, Electronics, and Communication Engineering, IIITD&M Kurnool, xzlashutosh@gmail.com
+
 
 
 
