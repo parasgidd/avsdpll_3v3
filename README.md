@@ -1,7 +1,9 @@
-# On-chip clock multiplier (PLL) 
-**(Fclkin—5MHz to 12MHz, Fclkout—40MHZ to 100MHZ at 1.8v)**
+## 1. Introduction to On-chip clock multiplier
+This repository contains simulation files and other relevant files on the On-chip clock multiplier using PLL (Fclkin—5MHz to 12MHz, Fclkout—40MHZ to 100MHZ at 1.8v) IP worked on in the VSD Online Internship.
 
-This repository contains simulation files and other relevant files on the On-chip clock multiplier (PLL) (Fclkin—5MHz to 12MHz, Fclkout—40MHZ to 100MHZ at 1.8v) IP worked on in the VSD Online Internship.
+The target is to design a On-chip clock multiplier using the osu180nm technology node. The [specifications](https://github.com/parasgidd/avsdpll_3v3/blob/master/Documents/avsdpll_3v3.pdf) are provided from VSD Corporation Pvt. Ltd.
+
+The On-chip clock multiplier is present in almost all synchronous processor chips.
 
 # Table of contents
 
@@ -128,6 +130,52 @@ Fig: Simulation results using Ngspice </p>
                  4. Input voltage to VCO (Green) </p>
                  5. Output clock wave (Pink) </p>
 </p>
+
+
+
+## 6. Post-Layout Simulations 
+
+### A. Phase Frequency Detector
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/pfd/pfd.png)
+
+</p>
+
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/pfd/pfdw.png)
+
+### B. Voltage Controlled Oscillator
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/vco/vco101.png)
+
+</p>
+
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/vco/vco101w.png)
+
+
+### C. Frequency Divider by 2
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv2/freqdiv2.png)
+
+</p>
+
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv2/freq_divider2w.png)
+
+
+### D. Frequency Divider by 8
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv8/freqdiv8.png)
+
+</p>
+
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv8/freqdiv8w.png)
+
+
+### E. 2:1 MUX
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/mux21/mux21.png)
+
+</p>
+
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/mux21/mux21w.png)
+
+### F. Phase lock Loop 
+
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/PLLv3.png)
 
 # Future work
 
