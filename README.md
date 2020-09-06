@@ -44,7 +44,9 @@ This IP block can be used for clock distribution for processor chip.
 |IDDA|Analog Supply current||||ua|VVCO=0.8V, VCO mode|
 |IDDA|Analog Supply current||||ua|FCLKREF=10MHz, PLL mode|
 |IDDA|Analog Supply current||||pa|EN_VCO=0, EN_CP=0, FCLKREF=0|
-
+|IDDD|Digital Supply Current||||uA|VVCO=0.8V, VCO mode|
+|IDDD|Digital Supply Current||||uA|FCLKREF=10MHz, PLL mode|
+|IDDD|Digital Supply Current||||uA|EN_VCO=0, EN_CP=0, FCLKREF=0|
 
 ## 4. EDA Tools Used 
 The design has been built using open-source EDA tools. The library used is osu180nm. 
