@@ -11,7 +11,8 @@ The On-chip clock multiplier is present in almost all synchronous processor chip
 - [4. EDA Tools Used](#4-eda-tools-used)
 - [5. Pre-layout Simulations](#5-pre-layout-and-simulations)
 - [6. Post-layout and Simulations](#6-Post-layout-and-Simulations)
-- [8. Author](#8-author)
+- [7. Future work](#8-author)
+- [8. Author](#8-Future-work)
 - [9. Acknowledgments](#9-acknowledgments)
 - [10. Contact Information -](#10-contact-information--)
 
@@ -155,17 +156,12 @@ Fig: Simulation Results for input frequency of 12MHz
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/12_5mv2/pll12_5mvv2opw.png)
 
-# Future work
+## 8. Future work
 
 1. Area Efficient Design Improvements.
 2. Improvements for Power Reduction. 
 3. Improvements of accuracy, jitter & dead zone.
 
-# Contributors
-
-- **Paras Gidd** 
-- **Kunal Ghosh** 
-- **Philipp Gühring** 
 
 ## 9. Acknowledgments
 - Kunal Ghosh, Co-founder VSD Corp. Pvt. Ltd.
