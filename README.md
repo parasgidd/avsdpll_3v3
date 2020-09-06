@@ -138,7 +138,9 @@ Fig: Simulation Results for input frequency of 12MHz
 </p>
 #### a. Input frequency = 5MHz
 </p>
+
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/5mv2/pll5mv2w.png)
+
 </p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/5mv2/pll5mv2opw.png)
