@@ -134,7 +134,7 @@ Fig: Layout of Voltage Controlled Oscillator (VCO).
 </p>
 
 Fig: Input-Output waveforms of Voltage Controlled Oscillator (VCO). </p>
-Vin - Input Voltage
+Vin - Input Voltage </p>
 Fout - Output Frequency
 
 </p>
