@@ -14,8 +14,8 @@ The On-chip clock multiplier is present in almost all synchronous processor chip
 - [7. Future work](#7-Future-work)
 - [8. Author](#8-Author)
 - [9. Contributors](#9-Contributors)
-- [9. Acknowledgments](#9-acknowledgments)
-- [10. Contact Information -](#10-contact-information--)
+- [10. Acknowledgments](#10-acknowledgments)
+- [11. Contact Information -](#10-contact-information--)
 
 ## 2. Theory
 
