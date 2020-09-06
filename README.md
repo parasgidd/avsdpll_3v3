@@ -61,33 +61,11 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 
 </p>
 
- 1. Input Frequency (F_in) = 5MHz
-  
-<p align="center">
-<img width="1528" height="1878" src="/images/LTS_op_wave_5Mh.jpg">
-</p>
-Fig: Simulation Results for input frequency of 5MHz
-
-
-  2. Input Frequency (F_in) = 10MHz
-  
-<p align="center">
-<img width="1528" height="1878" src="/images/LTS_op_wave_10Mh.jpg">
-</p>
-Fig: Simulation Results for input frequency of 10MHz
-
-
-  3. Input Frequency (F_in) = 12MHz
-  
-<p align="center">
-<img width="1528" height="1878" src="/images/LTS_op_wave_12Mh.jpg">
-</p>
-Fig: Simulation Results for input frequency of 12MHz
-</p>
-</p>
-</p>
-
-
+| Input Frequency | Output Frequency|
+|5MHz|39.73MHz|
+|10MHz|80.91MHz|
+|12MHz|96.1MHz|
+|12.5MHz|99.81MHz|
 
 ## 6. Post-Layout Simulations 
 
