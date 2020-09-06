@@ -13,6 +13,7 @@ The On-chip clock multiplier is present in almost all synchronous processor chip
 - [6. Post-layout and Simulations](#6-Post-layout-and-Simulations)
 - [7. Future work](#7-Future-work)
 - [8. Author](#8-Author)
+- [9. Contributors](#9-Contributors)
 - [9. Acknowledgments](#9-acknowledgments)
 - [10. Contact Information -](#10-contact-information--)
 
@@ -163,8 +164,13 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 ## 8. Author
 - Paras Gidd, M.Tech.( Microelectronics ), Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
 
+## 9. Contributors 
 
-## 9. Acknowledgments
+- **Paras Gidd** 
+- **Kunal Ghosh** 
+- **Philipp Gühring** 
+
+## 10. Acknowledgments
 - Kunal Ghosh, Co-founder VSD Corp. Pvt. Ltd.
 - Philipp Gühring, Software Architect, LibreSilicon Association.
 - FOSSEE Team, IIT Bombay
@@ -173,7 +179,7 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 
 
 
-## 10. Contact Information - 
+## 11. Contact Information - 
  - Paras Gidd, M.Tech.( Microelectronics ), Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
  - Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com
  - Philipp Gühring, Software Architect, LibreSilicon Association - pg@futureware.at
