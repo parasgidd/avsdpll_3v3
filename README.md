@@ -67,6 +67,8 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 Fig: Block Diagrm of PLL Design.
 
 </p>
+</p>
+</p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/Ngspice_5M_new.jpg)
 
@@ -95,7 +97,23 @@ Fig: Output waveforms from Pre-layout Simulation.
 
 </p>
 
+Fig: Layout of Phase Frequency Detector (PFD) or Phase Detector (PD)
+
+</p>
+</p>
+
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/pfd/pfdw.png)
+
+</p>
+
+Fig: Input-Output waveforms of Phase Frequency Detector (PFD) or Phase Detector (PD)
+     Inputs - Fin (Input Frequency)
+              Fvco_8 (Output Frequency divide by 8)
+     Outputs - Up Signal
+               Down Signal         
+
+</p>
+</p>
 
 ### B. Voltage Controlled Oscillator
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/vco/vco101.png)
