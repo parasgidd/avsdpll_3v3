@@ -161,7 +161,7 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 
 
 ## 8. Author
-- Paras Gidd, M.Tech, Microelectronics, Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
+- Paras Gidd, M.Tech.( Microelectronics ), Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
 
 
 ## 9. Acknowledgments
