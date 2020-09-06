@@ -75,8 +75,15 @@ Fig: Block Diagrm of PLL Design.
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/Ngspice_5Mop.jpg)
 
 </p>
+Fig: Input-Output waveforms from Pre-layout Simulation.
+Fin - Input Frequency. (Top Red) </p> 
+up - Up signal (Blue) </p> 
+down - Down signal (Yellow) </p> 
+Vcp - Input Voltaage of VCO (Green) </p> 
+fout - Output Frequency (Pink) </p> 
+</p>
 
-Fig: Output waveforms from Pre-layout Simulation.
+
 
 </p>
 </p>
