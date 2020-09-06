@@ -120,40 +120,91 @@ Fig: Input-Output waveforms of Phase Frequency Detector (PFD) or Phase Detector 
 ### B. Voltage Controlled Oscillator
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/vco/vco101.png)
 
+
+</p>
+
+Fig: Layout of Voltage Controlled Oscillator (VCO).
+
+</p>
+
 </p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/vco/vco101w.png)
 
+</p>
+
+Fig: Input-Output waveforms of Voltage Controlled Oscillator (VCO). </p>
+Vin - Input Voltage
+Fout - Output Frequency
+
+</p>
+
+</p>
 
 ### C. Frequency Divider by 2
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv2/freqdiv2.png)
 
 </p>
 
+Fig: Layout of Frequency Divider by 2. </p> 
+</p>
+
+
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv2/freq_divider2w.png)
 
+</p>
+
+Fig: Input-Output waveforms of Frequency Divider by 2. </p>
+clk - Input Freqency. </p>
+q - Output Freqency (Input Freq. by 2). </p>
+
+</p>
 
 ### D. Frequency Divider by 8
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv8/freqdiv8.png)
 
 </p>
+</p>
+
+Fig: Layout of Frequency Divider by 8. </p> 
+</p>
+
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/freqdiv8/freqdiv8w.png)
 
+</p>
+
+Fig: Input-Output waveforms of Frequency Divider by 8. </p>
+clk - Input Freqency. </p>
+q - Output Freqency (Input Freq. by 8). </p>
+
+</p>
 
 ### E. 2:1 MUX
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/mux21/mux21.png)
 
 </p>
+Fig: Layout of 2:1 MUX. </p> 
+</p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/mux21/mux21w.png)
 
+</p>
+Fig: Input-Output waveforms of of 2:1 MUX. </p> 
+i1 - Input 1 </p> 
+i2 - Input 2 </p> 
+sel - Select </p> 
+out - Output </p> 
+</p>
 
 ### F. Phase lock Loop 
 </p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/PLLv3.png)
 
+</p>
+</p>
+Fig: Layout of Phase Lock Loop (Combining all the Sub-circuits of PLL). </p> 
 </p>
 
 #### a. Input frequency = 5MHz
@@ -163,19 +214,49 @@ Fig: Input-Output waveforms of Phase Frequency Detector (PFD) or Phase Detector 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/5mv2/pll5mv2w.png)
 
 </p>
+</p>
+Fig: Input-Output waveforms of PLL. </p> 
+Fin - Input Frequency. (Top Red) </p> 
+Fvco_8 - Output Frequency divide by 8. (Blue) </p> 
+up - Up signal (Yellow) </p> 
+down - Down signal (Green) </p> 
+Vcp - Input Voltaage of VCO (Pink) </p> 
+fout - Output Frequency (Bottom Red) </p> 
+</p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/5mv2/pll5mv2opw.png)
 
 #### b. Input frequency = 10MHz
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/10mv2/pll10mv2w.png)
 </p>
-
+</p>
+</p>
+Fig: Input-Output waveforms of PLL. </p> 
+Fin - Input Frequency. (Top Red) </p> 
+Fvco_8 - Output Frequency divide by 8. (Blue) </p> 
+up - Up signal (Yellow) </p> 
+down - Down signal (Green) </p> 
+Vcp - Input Voltaage of VCO (Pink) </p> 
+fout - Output Frequency (Bottom Red) </p> 
+</p>
+</p>
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/10mv2/pll10mv2opw.png)
 
 #### c. Input frequency = 12.5MHz
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/12_5mv2/pll12_5mv2w.png)
 
 </p>
+</p>
+</p>
+Fig: Input-Output waveforms of PLL. </p> 
+Fin - Input Frequency. (Top Red) </p> 
+Fvco_8 - Output Frequency divide by 8. (Blue) </p> 
+up - Up signal (Yellow) </p> 
+down - Down signal (Green) </p> 
+Vcp - Input Voltaage of VCO (Pink) </p> 
+fout - Output Frequency (Bottom Red) </p> 
+</p>
+
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/12_5mv2/pll12_5mvv2opw.png)
 
