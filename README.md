@@ -62,7 +62,11 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/blockdiagram.jpg)
 
 </p>
+</p>
 
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/Ngspice_5M_new.jpg)
+
+</p>
 | Input Frequency | Output Frequency |
 | :---:  | :-: |
 |5MHz|39.73MHz|
@@ -117,7 +121,9 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/PLLv3.png)
 
 </p>
+
 #### a. Input frequency = 5MHz
+
 </p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/5mv2/pll5mv2w.png)
