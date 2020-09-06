@@ -61,7 +61,8 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 
 </p>
 
-| Input Frequency | Output Frequency|
+| Input Frequency | Output Frequency |
+| :---:  | :-: |
 |5MHz|39.73MHz|
 |10MHz|80.91MHz|
 |12MHz|96.1MHz|
