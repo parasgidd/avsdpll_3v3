@@ -10,7 +10,7 @@ The On-chip clock multiplier is present in almost all synchronous processor chip
 - [3. Specification List](#3-specification-list)
 - [4. EDA Tools Used](#4-eda-tools-used)
 - [5. Pre-layout Simulations](#5-pre-layout-and-simulations)
-- [6. Post-layout and Simulations](#6-Post-layout and Simulations)
+- [6. Post-layout and Simulations](#6-Post-layout-and-Simulations)
 - [8. Author](#8-author)
 - [9. Acknowledgments](#9-acknowledgments)
 - [10. Contact Information -](#10-contact-information--)
@@ -167,14 +167,13 @@ Fig: Simulation Results for input frequency of 12MHz
 - **Kunal Ghosh** 
 - **Philipp Gühring** 
 
-# Acknowledgments
+## 9. Acknowledgments
+- Kunal Ghosh, Co-founder VSD Corp. Pvt. Ltd.
+- Philipp Gühring, Software Architect, LibreSilicon Association.
 
-- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
-- Philipp Gühring, Software Architect, LibreSilicon Assocation
 
+## 10. Contact Information - 
+ - Paras Gidd, M.Tech, Microelectronics, Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
+ - Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com
+ - Philipp Gühring, Software Architect, LibreSilicon Association - pg@futureware.at
 
-# Contact Information
-
-- Paras Gidd, postgraduate Student, Manipal University, parasgidd@gmail.com
-- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
-- Philipp Gühring, Software Architect, LibreSilicon Assocation pg@futureware.at
