@@ -67,6 +67,7 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/Ngspice_5M_new.jpg)
 
 </p>
+
 | Input Frequency | Output Frequency |
 | :---:  | :-: |
 |5MHz|39.73MHz|
