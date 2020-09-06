@@ -5,7 +5,7 @@ The target is to design a On-chip clock multiplier using the osu180nm technology
 The On-chip clock multiplier is present in almost all synchronous processor chips.
 
 ## Table of Contents
-- [1. Introduction to On-chip clock multiplier](#1-Introduction to On-chip clock multiplier)
+- [1. Introduction to On-chip clock multiplier](#1-introduction-to-On-chip-clock-multiplier)
 - [2. Theory](#2-Theory)
 - [3. Specification List](#3-specification-list)
 - [4. EDA Tools Used](#4-eda-tools-used)
