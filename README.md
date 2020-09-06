@@ -39,7 +39,7 @@ This IP block can be used for clock distribution for processor chip.
 |IBCP|Bias current for VCO||||uA||
 |VVCO|Oscillatror control input voltage||||V||
 |JRMS|Jitter (rms)||future work||ps|PLL mode, FCLKREF = 10MHz|
-|TSET|Settlng Time||||us|start from EN_CP and report 2 values; one at FCLKOUT=40MHz and one at FCLKOUT=100MHz|
+|TSET|Settlng Time|5.2|5|4.6|us|start from EN_CP and report 2 values; one at FCLKOUT=40MHz and one at FCLKOUT=100MHz|
 |CL|Load Capacitance||||pF||
 |IDDA|Analog Supply current||||ua|VVCO=0.8V, VCO mode|
 |IDDA|Analog Supply current||||ua|FCLKREF=10MHz, PLL mode|
