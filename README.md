@@ -146,11 +146,18 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/12_5mv2/pll12_5mvv2opw.png)
 
+</p>
+</p>
+
+Note: As there were limitaions for for layout of capacitor in OSU180 tech file, I'm unable to make layout of Low Pass Filter.
+However, using more mature & advanced nodes & PDK tech file, it can be made on silicon. 
+
 ## 8. Future work
 
-1. Area Efficient Design Improvements.
-2. Improvements for Power Reduction. 
-3. Improvements of accuracy, jitter & dead zone.
+1. Porting this IP on lower technology nodes using advance PDK's where capacitor fabrication is realizable 
+2. Area Efficient Design Improvements.
+3. Improvements for Power Reduction. 
+4. Improvements of accuracy, jitter & dead zone.
 
 
 ## 9. Acknowledgments
