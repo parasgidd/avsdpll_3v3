@@ -174,7 +174,7 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 
 
 ## 10. Contact Information - 
- - Paras Gidd, M.Tech, Microelectronics, Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
+ - Paras Gidd, M.Tech.( Microelectronics ), Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
  - Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalghosh@gmail.com
  - Philipp Gühring, Software Architect, LibreSilicon Association - pg@futureware.at
 
