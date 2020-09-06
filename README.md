@@ -63,9 +63,21 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/blockdiagram.jpg)
 
 </p>
+
+Fig: Block Diagrm of PLL Design.
+
 </p>
 
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/Ngspice_5M_new.jpg)
+
+</p>
+
+Fig: Output waveforms from Pre-layout Simulation.
+
+</p>
+</p>
+
+**Pre-layout Simulation Results**
 
 </p>
 
