@@ -108,11 +108,11 @@ Fig: Layout of Phase Frequency Detector (PFD) or Phase Detector (PD)
 
 </p>
 
-Fig: Input-Output waveforms of Phase Frequency Detector (PFD) or Phase Detector (PD)
-     Inputs - Fin (Input Frequency)
-              Fvco_8 (Output Frequency divide by 8)
-     Outputs - Up Signal
-               Down Signal         
+Fig: Input-Output waveforms of Phase Frequency Detector (PFD) or Phase Detector (PD) </p>
+     Inputs - Fin (Input Frequency) &
+              Fvco_8 (Output Frequency divide by 8) </p> </p>
+     Outputs - Up Signal &
+               Down Signal         </p>
 
 </p>
 </p>
