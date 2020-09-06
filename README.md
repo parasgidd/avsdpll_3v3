@@ -54,8 +54,10 @@ The design has been built using open-source EDA tools. The library used is osu18
 ## 5. Pre-layout Simulations
 The complete circuit of PLL is built hierarchically using the following subcircuit blocks.
 
-<p align="center">
-<img width="1340" height="436" src="/images/block_diagram.png">
+</p>
+
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/blockdiagram.jpg)
+
 </p>
 
  1. Input Frequency (F_in) = 5MHz
