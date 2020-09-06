@@ -11,8 +11,8 @@ The On-chip clock multiplier is present in almost all synchronous processor chip
 - [4. EDA Tools Used](#4-eda-tools-used)
 - [5. Pre-layout Simulations](#5-pre-layout-and-simulations)
 - [6. Post-layout and Simulations](#6-Post-layout-and-Simulations)
-- [7. Future work](#8-author)
-- [8. Author](#8-Future-work)
+- [7. Future work](#7-Future-work)
+- [8. Author](#8-Author)
 - [9. Acknowledgments](#9-acknowledgments)
 - [10. Contact Information -](#10-contact-information--)
 
@@ -152,7 +152,7 @@ The complete circuit of PLL is built hierarchically using the following subcircu
 Note: As there were limitaions for for layout of capacitor in OSU180 tech file, I'm unable to make layout of Low Pass Filter.
 However, using more mature & advanced nodes & PDK tech file, it can be made on silicon. 
 
-## 8. Future work
+## 7. Future work
 
 1. Porting this IP on lower technology nodes using advance PDK's where capacitor fabrication is realizable 
 2. Area Efficient Design Improvements.
@@ -160,9 +160,17 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 4. Improvements of accuracy, jitter & dead zone.
 
 
+## 8. Author
+- Paras Gidd, M.Tech, Microelectronics, Manipal Institute of Technology,(MAHE), parasgidd@gmail.com
+
+
 ## 9. Acknowledgments
 - Kunal Ghosh, Co-founder VSD Corp. Pvt. Ltd.
 - Philipp Gühring, Software Architect, LibreSilicon Association.
+- FOSSEE Team, IIT Bombay
+- R. Timothy Edwards, Open Circuit Design
+
+
 
 
 ## 10. Contact Information - 
