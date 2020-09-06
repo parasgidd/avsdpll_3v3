@@ -32,8 +32,8 @@ This IP block can be used for clock distribution for processor chip.
 | Parameter| Description| Min | Type | Max | Unit | Condition |
 | :---:  | :-: | :-: | :-: | :---:  | :-: | :-: |
 |VDD|Digital supply voltage||1.8||V|T=-40 to 150C|
-|FCLKREF|Reference clock frequency|5||12.5|MHz||	
-|FCLKOUT|Output clock frequency|39.7||100.3|MHz|PLL mode, T=27C, VDD=1.8|
+|FCLKREF|Reference clock frequency|5|10|12.5|MHz||	
+|FCLKOUT|Output clock frequency|39.7|80.91|100.3|MHz|PLL mode, T=27C, VDD=1.8|
 |FCLKOUT|Output clock frequency||||MHz|VCO mode, T=27C, VDD=1.8|
 |DC|Duty Cycle|.48||.52|%|T=-40 to 150C|
 |IBCP|Bias current for VCO||||uA||
