@@ -315,12 +315,12 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 
 I would also like to thank research fellows for extending their help and guidance during the research internship program. They have their own projects & if you are interested in those projects have a look in the links provided below.
 
-- Sheryl Serrao, Undergraduate Student, Mumbai University.- 10 bit ADC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference
-- Reuel Reuben, Undergraduate Student, BVPCOE. - [SRAM (1024 x 32): (32kbits or 4kB), 1.8V and access time is <2.5ns (OpenRAM)](https://github.com/ReuelReuben/vsdSRAM)
-- Ananya Ghorai, Pursuing M.Tech in VLSI Design, IIT(ISM) Dhanbad. -10 bit ADC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference
-- Yash Kumar, B.E. Electronics, Fr. Conceicao Rodrigues College of Engineering, Mumbai.- [SRAM (1024 x 32): (32kbits or 4kB), 1.8V and access time is <2.5ns (OpenRAM)](https://github.com/yash-k99/vsdsram)
-- Neethu Johny, B.M.S College of Engineering, Bangalore.- [10bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference](https://github.com/neethujohny/avsddac_3v3)
-- Ashutosh Sharma, B.Tech, Electronics, and Communication Engineering, IIITD&M Kurnool.- [10bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference](https://github.com/xzlashutosh/avsddac_3v3)
+- Sheryl Serrao - 10 bit ADC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference
+- Reuel Reuben - [SRAM (1024 x 32): (32kbits or 4kB), 1.8V and access time is <2.5ns (OpenRAM)](https://github.com/ReuelReuben/vsdSRAM)
+- Ananya Ghorai - 10 bit ADC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference
+- Yash Kumar - [SRAM (1024 x 32): (32kbits or 4kB), 1.8V and access time is <2.5ns (OpenRAM)](https://github.com/yash-k99/vsdsram)
+- Neethu Johny - [10bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference](https://github.com/neethujohny/avsddac_3v3)
+- Ashutosh Sharma - [10bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference](https://github.com/xzlashutosh/avsddac_3v3)
 
 
 
