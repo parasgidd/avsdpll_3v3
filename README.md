@@ -35,7 +35,7 @@ This IP block can be used for clock distribution for processor chip.
 |FCLKREF|Reference clock frequency|5||12.5|MHz||	
 |FCLKOUT|Output clock frequency|39.7||100.3|MHz|PLL mode, T=27C, VDD=1.8|
 |FCLKOUT|Output clock frequency|?||?|MHz|VCO mode, T=27C, VDD=1.8|
-|DC|Duty Cycle||||%|T=-40 to 150C|
+|DC|Duty Cycle|.48||.52|%|T=-40 to 150C|
 |IBCP|Bias current for VCO||||uA||
 |VVCO|Oscillatror control input voltage||||V||
 |JRMS|Jitter (rms)||future work||ps|PLL mode, FCLKREF = 10MHz|
