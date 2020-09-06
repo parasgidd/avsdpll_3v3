@@ -72,7 +72,7 @@ Fig: Block Diagrm of PLL Design.
 
 </p>
 
-![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/Ngspice_5M_new.jpg)
+![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/images/Ngspice_5Mop.jpg)
 
 </p>
 
