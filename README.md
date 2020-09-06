@@ -175,10 +175,13 @@ Fig: Simulation results using Ngspice </p>
 
 
 ### F. Phase lock Loop 
+</p>
+
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/pll/pllv3.png)
 
 </p>
 #### a. Input frequency = 5MHz
+</p>
 ![Alt Text](https://github.com/parasgidd/avsdpll_3v3/blob/master/Post%20Layout%20Simulation/PLL/5mv2/pll5mv2w.png)
 </p>
 
