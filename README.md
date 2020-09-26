@@ -322,7 +322,7 @@ However, using more mature & advanced nodes & PDK tech file, it can be made on s
 - Philipp Gühring, Software Architect, LibreSilicon Association.
 - FOSSEE Team, IIT Bombay
 - R. Timothy Edwards, Open Circuit Design
-
+- [Gerald Topalli](https://github.com/topalli16) - who helped me with basics of PLL & phase locking. 
 I would also like to thank research fellows for extending their help and guidance during the research internship program. They have their own projects & if you are interested in those projects have a look in the links provided below.
 
 - Sheryl Serrao - 10 bit ADC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference
@@ -332,7 +332,7 @@ I would also like to thank research fellows for extending their help and guidanc
 - Neethu Johny - [10bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference](https://github.com/neethujohny/avsddac_3v3)
 - Ashutosh Sharma - [10bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference](https://github.com/xzlashutosh/avsddac_3v3)
 
-
+And Last but not least, I would like to thank my **Parents & Teachers** who directly & indirectly helped me & their contribution is of great value for me.
 
 
 ## 11. Contact Information - 
