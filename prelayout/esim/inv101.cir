@@ -1,0 +1,12 @@
+* /home/paras/Desktop/udemypll/prelayout/esim/inv101.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Sun Jul 25 19:21:36 2021
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+M2  vdd in out vdd mosfet_p		
+M1  out in GND GND mosfet_n		
+
+.end

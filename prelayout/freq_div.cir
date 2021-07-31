@@ -1,0 +1,39 @@
+****************************
+*freq_div_2
+***************************
+
+
+.include osu018.lib
+
+M1 N004 N002 0 0 nfet l=180n w=180n
+M2 VDD N002 N004 VDD pfet l=180n w=540n
+M5 N003 N004 0 0 nfet l=180n w=180n
+M6 VDD N004 N003 VDD pfet l=180n w=540n
+M7 D clock_b N002 0 nfet l=180n w=180n
+M3 N002 clock D VDD pfet l=180n w=540n
+M4 N002 clock N003 0 nfet l=180n w=180n
+M8 N003 clock_b N002 VDD pfet l=180n w=540n
+M9 q N001 0 0 nfet l=180n w=180n
+M10 VDD N001 q VDD pfet l=180n w=540n
+M11 D q 0 0 nfet l=180n w=180n
+M12 VDD q D VDD pfet l=180n w=540n
+M13 N004 clock N001 0 nfet l=180n w=180n
+M14 N001 clock_b N004 VDD pfet l=180n w=540n
+M15 N001 clock_b D 0 nfet l=180n w=180n
+M16 D clock N001 VDD pfet l=180n w=540n
+M17 clock_b clock 0 0 nfet l=180n w=180n
+M18 VDD clock clock_b VDD pfet l=180n w=540n
+
+
+
+VDD VDD 0 1.8
+V1 clock 0 PULSE 0 1.8 10p 50p 50p 100n 200n
+
+
+.control
+tran .1ns 1u
+plot V(clock)+2 V(q)
+.endc
+
+
+.end

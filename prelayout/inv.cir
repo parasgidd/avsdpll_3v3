@@ -1,0 +1,19 @@
+****************************
+*Inverter
+***************************
+
+.include osu018.lib
+
+M1 out in GND GND nfet l=180n w=180n
+M2 VDD in out VDD pfet l=180n w=360n
+
+V1 in 0 PULSE 0 1.8 10p 50p 50p 100n 200n
+v2 VDD 0 1.8
+
+
+.control
+tran 0.01ns 400ns
+plot v(in)+2 v(out)
+.endc
+
+.end

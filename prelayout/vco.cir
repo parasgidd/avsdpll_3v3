@@ -1,0 +1,56 @@
+****************************
+*VCO
+***************************
+
+.include osu018.lib
+
+*______________________________________________
+M7 Vp Vn 0 0 nfet l=180n w=360n
+M8 Vp Vp VDD VDD pfet l=180n w=1800n
+R1 Vn Vinvco 1
+XU22 osc_fb Osc inv_20_10
+XX3 n1 osc_fb Vp Vn cs_inv
+XX16 N005 n1 Vp Vn cs_inv
+XX17 N004 N005 Vp Vn cs_inv
+XX18 N003 N004 Vp Vn cs_inv
+XX19 N002 N003 Vp Vn cs_inv
+XX20 N001 N002 Vp Vn cs_inv
+XX21 osc_fb N001 Vp Vn cs_inv
+*______________________________________________
+
+*______________________________________________
+* _______SUBCIRCUITS_________________
+*______________________________________________
+
+.subckt inv_20_10 In Out
+M1 Out In 0 0 nfet l=180n w=360n
+M2 Out In N001 N001 pfet l=180n w=720n
+V1 N001 0 1.8
+.ends inv_20_10
+
+.subckt cs_inv In Out Vp Vn
+M1 N003 Vn 0 0 nfet l=180n w=360n
+M4 N002 Vp N001 VDD pfet l=180n w=720n
+M3 Out In N002 VDD pfet l=180n w=720n
+M2 Out In N003 0 nfet l=180n w=360n
+*C1 Out 0 1pf
+V1 N001 0 1.8
+.ends cs_inv
+
+*______________________________________________
+* _______SUBCIRCUITS_ENDS________________
+*______________________________________________
+
+
+V2 Vinvco 0 .5
+V3 VDD 0 1.8
+.ic V(vin_vco) = 0
+
+
+.control
+tran .1ns 1u
+plot V(Vinvco)+2 V(osc_fb)
+.endc
+
+
+.end

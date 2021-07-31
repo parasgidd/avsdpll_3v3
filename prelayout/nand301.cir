@@ -1,0 +1,29 @@
+****************************
+*3 input nand
+***************************
+
+
+.include osu018.lib
+
+M1 out in1 N001 N001 nfet l=180n w=540n
+M2 VDD in2 out VDD pfet l=180n w=360n
+M3 VDD in1 out VDD pfet l=180n w=360n
+M4 N001 in2 N002 N002 nfet l=180n w=540n
+M5 N002 in3 GND GND nfet l=180n w=540n
+M6 VDD in3 out VDD pfet l=180n w=360n
+
+
+
+V1 in1 0 PULSE 0 1.8 10p 50p 50p 100n 200n
+V2 in2 0 PULSE 0 1.8 10p 50p 50p 50n 100n
+V3 in3 0 PULSE 0 1.8 10p 50p 50p 25n 50n
+V4 VDD 0 1.8
+
+
+.control
+tran .1ns 200n
+plot V(in1)+6 V(in2)+4 V(in3)+2 V(out)
+.endc
+
+
+.end
