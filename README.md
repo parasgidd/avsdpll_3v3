@@ -4,8 +4,6 @@ This repository contains simulation files and other relevant files on the On-chi
 The target is to design a On-chip clock multiplier using the osu180nm technology node. The [specifications](https://github.com/parasgidd/avsdpll_3v3/blob/master/Documents/avsdpll_3v3.pdf) are provided from VSD Corporation Pvt. Ltd.
 The On-chip clock multiplier is present in almost all synchronous processor chips (Integrated circuits).
 
-[Outstanding (Top 10)](https://hackathon.fossee.in/esim/results)
-
 
 
 ## Table of Contents
